@@ -1,0 +1,16 @@
+[
+  {
+    "Ad": "John Doe",
+    "Unvan": "Memur",
+    "SaatlikUcret": 500,
+    "CalismaSaati": 160,
+    "Derece": 3
+  },
+  {
+    "Ad": "Jane Doe",
+    "Unvan": "Yonetici",
+    "SaatlikUcret": 1000,
+    "CalismaSaati": 160,
+    "Bonus": 5000
+  }
+]
